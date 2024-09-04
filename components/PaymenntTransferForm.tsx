@@ -163,7 +163,7 @@ const PaymentTransferForm = ({ accounts }: PaymentTransferFormProps) => {
             Enter the bank account details of the recipient
           </p>
         </div>
-
+        
         <FormField
           control={form.control}
           name="email"
